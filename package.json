@@ -12,7 +12,7 @@
    "license": "ISC",
    "dependencies": {
       "express": "^4.17.1",
-      "moment-timezone": "^0.5.33",
+      "moment-timezone": "^0.5.44",
       "socket.io": "^4.7.2"
    },
    "engines": {
