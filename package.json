@@ -11,7 +11,7 @@
    "author": "Pabitra Banerjee",
    "license": "ISC",
    "dependencies": {
-      "express": "^4.21.1",
+      "express": "^4.21.2",
       "moment-timezone": "^0.5.33",
       "socket.io": "^4.7.2"
    },
